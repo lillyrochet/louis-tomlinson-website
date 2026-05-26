@@ -14,7 +14,7 @@
 }
 
 body{
-	background-image: url('../images/Louis-Tomlinson-onstage-at-Away-From-Home-Festival.jpg');
+	background-image: url('Louis-Tomlinson-onstage-at-Away-From-Home-Festival.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -23,7 +23,7 @@ header{
 	grid-area: 1 / 2 / 2 / 3 ;
 	text-align: center;
 	
-	background-image: url('../images/Louis-Tomlinson-smiley.jpg');
+	background-image: url('Louis-Tomlinson-smiley.jpg');
 	background-repeat: no-repeat;
 	background-position: calc(100% - 20px) center;
 	background-size: 80px;
